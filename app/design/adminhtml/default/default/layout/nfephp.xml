@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <nfephp_adminhtml_nfephp_index>
+        <reference name="content">
+            <block type="nfephp/adminhtml_nfephp" name="nfephp" />
+        </reference>
+    </nfephp_adminhtml_nfephp_index>
+</layout>
